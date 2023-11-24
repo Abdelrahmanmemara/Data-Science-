@@ -1,2 +1,3 @@
 # Data-Science-
-This is a place where I will put all of the projects that I have made so far in my career
+I am an AI second year bachelor student. I making this respitory to place all of the projects that I have done so far in my career. 
+This will contain many sections, some will be about machine learning, data analysis, NLP, etc.
